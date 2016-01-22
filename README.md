@@ -1,6 +1,16 @@
 # About
 
 This is an example of User Settings for Sublime Text (version 2 and 3). These settings will override the default ones.
+These settings will allow you to:
+- Ensure that all files that you save have a new line at the end;
+- Translate tabs to spaces;
+- Configure the default tab size to 2 (two) spaces;
+- Trim every trailing white space;
+- See line numbers;
+- See rulers so you can follow good practices about lines length;
+- Highlight the tabs related to files that were modified and not yet saved;
+- Bold directories labels in the sidebar so you can see easily what is a directory and what is a file;
+- Preview a file when you click on it in the sidebar.
 
 # How to use it
 
@@ -41,5 +51,5 @@ In order to use this set of configuration, open your sublime text, click on the 
   "preview_on_click": true
 }
 ```
-The code can be seen in the Preferences.sublime-settings file of this project
+This code can be seen also in the Preferences.sublime-settings file of this project.
 

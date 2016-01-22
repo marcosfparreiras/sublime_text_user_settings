@@ -1,6 +1,7 @@
 # About
 
 This is an example of User Settings for Sublime Text (version 2 and 3). These settings will override the default ones.
+
 These settings will allow you to:
 - Ensure that all files that you save have a new line at the end;
 - Translate tabs to spaces;

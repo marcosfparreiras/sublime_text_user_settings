@@ -9,6 +9,18 @@
   // The number of spaces a tab is considered equal to
   "tab_size": 2,
 
+  // If enabled, will highlight any line with a caret
+  "highlight_line": true,
+
+  // Hides the fold buttons unless the mouse is over the gutter
+  "fade_fold_buttons": false,
+
+  // Additional spacing at the bottom of each line, in pixels
+  "line_padding_bottom": 1,
+
+  // Additional spacing at the top of each line, in pixels
+  "line_padding_top": 2,
+
   // Set to true to removing trailing white space on save
   "trim_trailing_white_space_on_save": true,
 
